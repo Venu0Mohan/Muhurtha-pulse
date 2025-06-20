@@ -17,7 +17,8 @@ This project is offered open-source as seva—built by a devotee, not for fame o
 - 🪶 **Sankalpa View**: Elegant GUI with color-coded current period and daily reflection
 - 📦 **Export-Ready**: Logs to `.csv` for study, journaling, or further research
 
----
+---<img width="1121" alt="image" src="https://github.com/user-attachments/assets/eb8a3bf3-3f04-4f18-979a-94d019f173cf" />
+
 
 ## 📥 Installation
 
