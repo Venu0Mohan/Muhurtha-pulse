@@ -1,0 +1,43 @@
+[
+  {
+    "start": "1994-10-07",
+    "end": "2014-10-07",
+    "mahadasha": "VENUS",
+    "antardashas": [
+      {
+        "start": "2012-03-07",
+        "end": "2015-01-07",
+        "antardasha": "SATURN",
+        "pratyantardashas": [
+          { "start": "2014-07-07", "end": "2014-08-15", "pratyantar": "MOON" },
+          { "start": "2014-08-15", "end": "2014-09-20", "pratyantar": "MARS" },
+          { "start": "2014-09-20", "end": "2014-10-07", "pratyantar": "MERCURY" }
+        ]
+      }
+    ]
+  },
+  {
+    "start": "2014-10-07",
+    "end": "2034-10-07",
+    "mahadasha": "SUN",
+    "antardashas": [
+      {
+        "start": "2025-06-01",
+        "end": "2026-06-01",
+        "antardasha": "SATURN",
+        "pratyantardashas": [
+          { "start": "2025-06-01", "end": "2025-07-10", "pratyantar": "RAHU" },
+          { "start": "2025-07-10", "end": "2025-08-20", "pratyantar": "JUPITER" },
+          { "start": "2025-08-20", "end": "2025-10-01", "pratyantar": "SATURN" }
+        ]
+      }
+    ]
+  },
+  {
+    "start": "2034-10-07",
+    "end": "2050-10-07",
+    "mahadasha": "MOON",
+    "antardashas": [],
+    "note": "Transition into Jupiter Mahadasha expected around 2037 based on balance at birth"
+  }
+]
