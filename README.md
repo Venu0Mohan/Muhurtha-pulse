@@ -19,6 +19,8 @@ This project is offered open-source as seva—built by a devotee, not for fame o
 
 ---<img width="1121" alt="image" src="https://github.com/user-attachments/assets/eb8a3bf3-3f04-4f18-979a-94d019f173cf" />
 
+_Sample output from June 21, 2025 – Auckland, NZ_
+
 
 ## 📥 Installation
 
